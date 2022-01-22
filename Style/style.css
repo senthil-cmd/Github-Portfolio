@@ -5,7 +5,8 @@
 }
 
 body {
-	background-color: white;
+	background-image: url(/Images/patrick-tomasso-QMDap1TAu0g-unsplash.jpg);
+    background-size: cover;
 }
 
 .wrapper {
@@ -159,7 +160,10 @@ ul
     background: #007bb5;
     color: white;
   }
-
+  .fa-github {
+    background: #007bb5;
+    color: white;
+  }
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
